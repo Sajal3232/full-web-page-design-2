@@ -1,0 +1,224 @@
+@media(max-width:1400px){
+
+    .conteinar {
+       max-width: 1200px;
+}
+
+}
+@media(max-width:1024px){
+    .header-logo {
+        margin-left: 10px;
+        margin-top: 7px;
+    }
+    .banner-right {
+        width: 95%;
+        margin: 17px 20px;
+    }
+    .banner-left {
+        width: 100%;
+        text-align: center;
+    }
+    .banner-right h1 {
+        font-size: 23px;
+    }
+    .banner-right p {
+        color: #155;
+        text-align: justify;
+    }
+    .service-box {
+        width: 48%;
+    }
+    .service-section {
+        padding: 40px 0px;
+        margin: 20px 0px;
+    }
+
+    .default-btn a {
+        padding: 10px 15px;
+        font-size: 12px;
+
+    }
+    .service-heading h1 {
+        font-size: 40px;
+    }
+    .employee-section {
+        padding: 30px 0px;
+    }
+    .bt-content {
+        width: 98%;
+        margin-left: 2%;
+        margin-top: 20px;
+    }
+    .b-heading {
+        width: 98%;
+        margin-top: 20px;
+        margin-left: 2%;
+    }
+    .blog-post-item {
+        width: 97%;
+        margin-top: 30px;
+        margin-left: 2%;
+    }
+    .contact-left-map {
+        width: 98%;
+        margin: 1%;
+    }
+
+    .contact-left-map iframe{
+        width: 100%;
+        height: auto;;
+    }
+    .contact-right-form {
+        width: 98%;
+        margin: 1%;
+    }
+
+}
+@media(max-width:892px){
+    .priceing-content {
+        width: 94%;
+        margin-right: 3%;
+        margin-left: 3%;
+   
+    }
+    .default-btn {
+        text-align: center;
+    }
+    .employee-content {
+        width: 46%;
+        margin: 2%;
+    }
+    .user-content {
+        width: 98%;
+        margin: 1%;
+    }
+    .user-content:last-child{
+        margin:1%;
+    }
+    .service-heading h1 {
+        font-size: 20px;
+    }
+
+}
+
+
+    .header-menu.left span {
+        display: none;
+    }
+
+@media(max-width:768px){
+    .header-logo span {
+        position: relative;
+        top: -19px;
+        font-size: 20px;
+    }
+    .header-logo {
+        width: 100%;
+        text-align: center;
+    }
+    .header-button {
+        position: absolute;
+        top: 56px;
+        right: 0;
+        width: 106px;
+    
+    }
+    .header-logo img {
+        float: none;
+    }
+    .header-menu.left ul {
+        opacity: 0;
+        visibility: hidden;
+    }
+    .header-menu.left span {
+        font-size: 35px;
+        display: inline-block;
+        color: #6278df;
+        margin-left: 22px;
+        cursor: pointer;
+
+    }
+    .header-menu.left ul {
+        opacity: 0;
+        visibility: hidden;
+    }
+    .header-section {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .banner-section {
+        position: relative;
+        top: -40px;
+    }
+    .service-box {
+        width: 100%;
+        margin-left: 5px;
+        margin-right: 10px;
+    }
+    
+    .service-heading h1 {
+        font-size: 30px;
+    }
+    .employee-content {
+        width: 96%;
+        margin: 2%;
+    }
+    .service-heading h1 {
+        font-size: 15px;
+    }
+
+    
+
+}
+
+@media(max-width:660px){
+    .banner-content {
+        padding: 140px 0px;
+    }
+    .banner-content h3 {
+        color: white;
+        font-size: 20px;
+    }
+    .banner-content h2 {
+        font-size: 30px;
+        margin: 10px 0px;
+    }
+    .banner-content a {
+        padding: 11px 20px;
+        margin-right: 8px;
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .submit-button {
+        display: block;
+        margin: auto;
+        margin-top: 12px;
+    }
+ 
+    .footer p {
+        font-size: 10px;
+    }
+}
+
+@media(max-width:400px){
+    .banner-section {
+        position: relative;
+        top: -90px;
+    }
+    .banner-content a {
+        display: block;
+        margin: 20px 20px;
+}
+.banner-content {
+    padding: 120px 0px;
+}
+.banner-right h1 {
+    font-size: 18px;
+}
+.banner-right p {
+    font-size: 13px;
+
+}
+
+}
